@@ -1,0 +1,3 @@
+﻿method_id,method,runtime_mean_ms,runtime_median_ms,runtime_max_ms
+fullnet,PINN (FullNet),1.7030500166583806,1.7030500166583806,3.1555999885313213
+supervised,Supervised Network (SNET),0.3383000148460269,0.3383000148460269,0.33870001789182425

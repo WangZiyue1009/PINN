@@ -1,0 +1,2 @@
+﻿method,n_cases,cost_diff_mean,cost_diff_median,cost_diff_p10,cost_diff_p90,norm_cost_diff_mean,norm_cost_diff_median,abs_decomp_mean,abs_decomp_median,rel_decomp_mean,rel_decomp_median,rel_decomp_p90,decomp_fail_rate
+fullnet,400,804.5316715581777,787.2043043896406,602.7950405275325,1027.7073155185303,0.08365047020169053,0.08533686760759036,26.43225291081155,0.0,0.0032328451850860266,0.0,0.013957436551427456,0.1125

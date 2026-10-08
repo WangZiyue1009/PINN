@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "mcp__acp__Bash",
+      "Bash(python -c \"import pandas as pd; df = pd.read_csv\\(r'D:\\\\share\\\\results\\\\aggregation\\\\compare_fullnet_cube_power_energy\\\\price_guided_cost_details.csv'\\); print\\('Shape:', df.shape\\); print\\('Columns:', list\\(df.columns\\)\\); print\\(df.head\\(10\\).to_string\\(\\)\\); print\\('dtypes:'\\); print\\(df.dtypes\\)\")"
+    ]
+  },
+  "enabledPlugins": {
+    "glm-plan-usage@zai-coding-plugins": true,
+    "glm-plan-bug@zai-coding-plugins": true
+  }
+}

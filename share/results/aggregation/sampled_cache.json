@@ -1,0 +1,35 @@
+{
+  "mode": "train",
+  "norm_bounds": {
+    "ev_min": 6.0,
+    "ev_max": 10.0,
+    "tcl_temp_min": -9.0,
+    "tcl_temp_max": -4.0,
+    "pv_energy_min": 5.7387310403759875,
+    "pv_energy_max": 6.272957548753318
+  },
+  "configs": [
+    {
+      "seed": 0,
+      "model_id": 0,
+      "ev_count": 6,
+      "tcl_idx": 7,
+      "tcl_temp_ambient_avg": -4.633099718577415,
+      "pv_idx": 1,
+      "pv_energy": 5.7387310403759875,
+      "tcl_count": 8,
+      "pv_count": 2
+    },
+    {
+      "seed": 1,
+      "model_id": 1,
+      "ev_count": 10,
+      "tcl_idx": 29,
+      "tcl_temp_ambient_avg": -8.22714900703167,
+      "pv_idx": 1,
+      "pv_energy": 5.7387310403759875,
+      "tcl_count": 8,
+      "pv_count": 2
+    }
+  ]
+}

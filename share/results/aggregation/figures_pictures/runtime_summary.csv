@@ -1,0 +1,5 @@
+﻿method_id,method,runtime_mean_ms,runtime_max_ms
+fullnet,Learned Polytope Approx. (FullNet),1.0994999975082465,1.4423999964492396
+supervised,Supervised Regression (FullNet),0.9766099989064969,1.3304999883985147
+cube,Inner Approx. (Cube),2961.589319999621,4660.7667000062065
+power_energy,Outer Approx. (Power-Energy),78.36656999861589,302.3916999954963
